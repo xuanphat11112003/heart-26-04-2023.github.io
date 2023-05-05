@@ -129,9 +129,7 @@ h1 {
     width: 0;
     height: 0;
     margin: -193px;
-    border-bottom: 180px solid #727150;
-    border-left: 200px solid white;
-    border-right: 200px solid white;
+   
     position: relative;
     opacity: 0;
     left :50%;
@@ -139,37 +137,8 @@ h1 {
     top: -266px;
     z-index: 900;
 }
-.thu1 {
-    display: none;
-    width: 0;
-    height: 0;
-    border-bottom: 180px solid black;
-    border-left: 200px solid transparent;
-    border-right: 200px solid transparent;
-    transform: rotate(-180deg);
-    left :50%;
-    right: 50%;
-    top: 500px;
-    position: absolute;
-    opacity: 0;
-    z-index: 1000;
-    
 
-}
-.thu2 {
-    width: 0;
-    height: 0;
-    border-bottom: 180px solid black;
-    border-left: 200px solid transparent;
-    border-right: 200px solid transparent;
-    transform: rotate(0deg);
-    left :50%;
-    right: 50%;
-    position: absolute;
-    opacity: 0;
-    top: 345px
 
-}
 .hpbd{
     position: fixed;
     top: 50%;
